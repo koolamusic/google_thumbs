@@ -57,7 +57,7 @@ body{
 	width: 100%;
 	margin-top:10px;
 	text-align:left;
-	height: 0; /*element to be manipulated in js that controls preview section of thumb */
+	height: 350px; /*element to be manipulated in js that controls preview section of thumb */
 	overflow:hidden;
 }
 
